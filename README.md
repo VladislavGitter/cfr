@@ -7,7 +7,10 @@ Heads-Up
 3. kuhnFlopIR.py: introduction for imperfect recall(IR), IR is made clustering same bet-sized flops for any hand
 4. leducPreflop.py: introduction for leduc poker, every player can bet 2 times, no flop
 5. leducFlopPR.py: flop integration, perfect recall
-6. leducFull.: turn and river, 1 card each. 12 cards deck, set(3 of a kind) possibility.
+6. leducFull.py: turn and river, 1 card each. 12 cards deck, set(3 of a kind) possibility.
 
 3 Max Game
 7.kuhn3 
+8.leducFlop3.py
+9.leducFULL3.py
+10. leducFULL3IR.py
