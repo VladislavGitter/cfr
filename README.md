@@ -10,7 +10,7 @@ Heads-Up
 6. leducFull.py: turn and river, 1 card each. 12 cards deck, set(3 of a kind) possibility.
 
 3 Max Game
-7.kuhn3 
-8.leducFlop3.py
-9.leducFULL3.py
-10. leducFULL3IR.py
+  7.kuhn3 
+  8.leducFlop3.py
+  9.leducFULL3.py
+  10. leducFULL3IR.py
