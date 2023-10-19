@@ -9,7 +9,7 @@ Heads-Up
 5. leducFlopPR.py: flop integration, perfect recall
 6. leducFullIR.py: turn and river, 1 card each. 12 cards deck, set(3 of a kind) possibility.
 
-3 Max Game
+3-Max Game
   7.kuhn3 :
   8.leducFlop3.py :
   9.leducFULL3.py :
